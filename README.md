@@ -84,12 +84,14 @@ This will generate a detailed report with the recommended equipment and paramete
 ```
 
 ### 📁 Project Structure
+```
 ├── millmizer.py            # Main Python script
 ├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
 ├── CONTRIBUTING.md         # Project documentation
 ├── CODE_OF_CONDUCT.md      # Project documentation
 └── LICENSE                 # MIT License
+```
 
 ### 📄 License
 
