@@ -69,6 +69,7 @@ You will be prompted to enter the material characteristics. Provide the values w
 ### Example Interaction:
 
 Milling Parameter Prediction System
+
 ==================================================
 Loading existing models...
 All models loaded successfully!
@@ -82,13 +83,14 @@ Enter process temperature (-10-60°C): 25
 This will generate a detailed report with the recommended equipment and parameters.
 
 ### 📁 Project Structure
-
+```bash
 ├── millmizer.py            # Main Python script
 ├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
 ├── CONTRIBUTING.md         # Project documentation
 ├── CODE_OF_CONDUCT.md      # Project documentation
 └── LICENSE                 # MIT License
+'''
 
 ## 📄 License
 
