@@ -59,8 +59,9 @@ Execute the main script from your terminal:
 
 ```bash
 python your_script_name.py
-First Run: The script will detect that no models are present, automatically train them, and save them in a newly created models/ directory.
+```
 
+First Run: The script will detect that no models are present, automatically train them, and save them in a newly created models/ directory.
 Subsequent Runs: The script will load the existing models to make predictions instantly.
 
 You will be prompted to enter the material characteristics. Provide the values within the specified ranges to get a prediction.
@@ -81,16 +82,13 @@ Enter process temperature (-10-60°C): 25
 This will generate a detailed report with the recommended equipment and parameters.
 
 ### 📁 Project Structure
-.
-├── your_script_name.py     # Main Python script
-├── models/                 # Directory created to store trained models
-│   ├── equipment_classifier.pkl
-│   ├── equipment_label_encoder.pkl
-│   ├── feature_scaler.pkl
-│   ├── Ball_Mill_A_ball_filling_rate_model.pkl
-│   └── ... (other regression models)
-├── requirements.txt        # Project dependencies
-└── README.md               # This README file
+
+├── millmizer.py            # Main Python script
+├── requirements.txt         # Python dependencies
+├── README.md               # Project documentation
+├── CONTRIBUTING.md         # Project documentation
+├── CODE_OF_CONDUCT.md      # Project documentation
+└── LICENSE                 # MIT License
 
 ## 📄 License
 
