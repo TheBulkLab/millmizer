@@ -91,7 +91,7 @@ This will generate a detailed report with the recommended equipment and paramete
 ├── CODE_OF_CONDUCT.md      # Project documentation
 └── LICENSE                 # MIT License
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
