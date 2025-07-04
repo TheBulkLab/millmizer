@@ -14,7 +14,7 @@ A Python machine-learning system that predicts optimal milling parameters (ball 
 ## 📦 Installation
 
 1. Clone the repository using GitHub Desktop or from a command line:
-   git clone https://github.com/yourusername/Millmizer.git
+   git clone https://github.com/TheBulklLab/Millmizer.git
    Open the `Millmizer` folder in your file explorer or terminal.
 
 2. Create a virtual environment:
