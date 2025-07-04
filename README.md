@@ -81,7 +81,7 @@ Enter target particle size (5-200 μm): 75
 Enter batch weight (1-500 kg): 120
 Enter process temperature (-10-60°C): 25
 This will generate a detailed report with the recommended equipment and parameters.
-'''
+```
 
 ### 📁 Project Structure
 ├── millmizer.py            # Main Python script
