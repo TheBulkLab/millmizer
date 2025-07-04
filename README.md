@@ -58,7 +58,7 @@ The system operates in two main phases: Model Training and Prediction.
 Execute the main script from your terminal:
 
 ```bash
-python your_script_name.py
+python millmizer.py
 ```
 
 First Run: The script will detect that no models are present, automatically train them, and save them in a newly created models/ directory.
