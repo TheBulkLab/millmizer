@@ -1,6 +1,6 @@
 ## Milling Parameter Prediction System
 
-This project provides a command-line tool for predicting optimal milling parameters for industrial processes. Given input material characteristics—specifically particle size, batch weight, and temperature—the system uses a two-stage machine learning pipeline to recommend the best equipment and its operational settings.
+The **Milling Parameter Prediction System (millmizer)** provides a command-line tool for predicting optimal milling parameters for industrial processes. Given input material characteristics—specifically particle size, batch weight, and temperature—the system uses a two-stage machine learning pipeline to recommend the best equipment and its operational settings.
 The goal is to streamline process setup, improve efficiency, and provide standardized operational guidelines complete with risk analysis.
 
 ---
