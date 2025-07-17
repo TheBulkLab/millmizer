@@ -1,14 +1,11 @@
 ## Milling Parameter Prediction System
 
-## Overview
-
 This project provides a command-line tool for predicting optimal milling parameters for industrial processes. Given input material characteristics—specifically particle size, batch weight, and temperature—the system uses a two-stage machine learning pipeline to recommend the best equipment and its operational settings.
-
 The goal is to streamline process setup, improve efficiency, and provide standardized operational guidelines complete with risk analysis.
 
 ---
 
-## Features
+## ✨ Features
 
 - **Predictive Modeling**: Utilizes scikit-learn to forecast optimal process parameters.
 - **Two-Stage Prediction**:
@@ -21,20 +18,7 @@ The goal is to streamline process setup, improve efficiency, and provide standar
 
 ---
 
-## Requirements
-
-- Python 3.x
-- scikit-learn
-- pandas
-- numpy
-- joblib
-
-You can install the required libraries using pip:
-`pip install scikit-learn pandas numpy joblib`
-
----
-
-## How to Use
+## ⚙️ How it Works
 
 1.  **Save the Code**: Save the provided code as a Python file (e.g., `predictor.py`).
 
@@ -57,8 +41,10 @@ You can install the required libraries using pip:
 
 ---
 
-## Code Structure
+## 🤝 Contributing
 
-- **`MillingParameterPredictor` class**: The main class that encapsulates all functionality, including data generation, model training, saving/loading, and prediction.
-- **`main()` function**: The entry point of the script that handles the user interaction and orchestrates the prediction process.
-- **`models/` directory**: Automatically created to store the serialized machine learning models.
+Contributions are welcome\! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
