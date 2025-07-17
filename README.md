@@ -1,6 +1,4 @@
-==================================
- Milling Parameter Prediction System
-==================================
+## Milling Parameter Prediction System
 
 ## Overview
 
